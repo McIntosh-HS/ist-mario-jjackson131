@@ -2,6 +2,6 @@
 
 int main()
 {
-	printf("Hello, IST!\n");
+	printf("Sum Random\n");
 	return 0;
 }
